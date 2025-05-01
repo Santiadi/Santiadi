@@ -1,32 +1,56 @@
-# Hola, soy Didier Carvajal
+<h1 align="center">Hola 👋, soy Didier Carvajal</h1>
 
-Ingeniero en sistemas e informática
-Desarrollador backend y DevOps. 
-
----
-
-## Tecnologías y Herramientas
-- **Lenguajes:** Java · Node.js · Go · JavaScript
-- **DevOps:** Docker · GitHub Actions · Jenkins · CI/CD pipelines · Terraform 
-- **Bases de datos:** MariaDB · MongoDB · PostgreSQL · MySQL
+<p align="center">
+Ingeniero en Sistemas e Informática | 💻 Desarrollador Backend & DevOps  
+Apasionado por la automatización, el despliegue continuo y los entornos distribuidos escalables.
+</p>
 
 ---
 
-## Proyectos destacados
+## 🧰 Tech Stack
 
-### 🔹 FileDepot – Sistema distribuido de gestión de archivos
-- [Proyecto](https://github.com/FileDepot-Distribuidos/)  
-- Tecnologías: Java · Go · NodeJS · gRPC · SOAP · RMI · MariaDB  
-- Funcionalidades: autenticación, replicación, distribución de archivos, consumo por árbol, etc.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+</p>
 
 ---
 
-## GitHub Stats
-![Santiadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santiadi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiadi&layout=compact&theme=radical)
+## 📌 Proyectos destacados
+
+### 🔷 FileDepot – Sistema distribuido de gestión de archivos
+
+📚 *Proyecto académico colaborativo*  
+🔗 [Repositorio general](https://github.com/FileDepot-Distribuidos/)  
+
+**Tecnologías principales:**  
+`Java · Go · Node.js · MariaDB · gRPC · SOAP · RMI · Vue`
+
+**Funciones clave:**  
+- Autenticación con RMI  
+- Servicio de aplicación con SOAP  
+- Sincronización y almacenamiento distribuido en nodos via gRPC  
+- Subida, lectura, movimiento y borrado de archivos  
+- Generación de reporte de espacio 
 
 ---
 
-## Enlaces de contacto
-[LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/didier-santiago-carvajal-mogollon-5b7734164/)) · [Correo](disacamo43@gmail.com)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santiadi&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiadi&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+## 🌐 Contacto
+
+- [📬 LinkedIn](https://www.linkedin.com/in/didier-santiago-carvajal-mogollon-5b7734164/)
+- 📩 disacamo43@gmail.com
+
+---
 
