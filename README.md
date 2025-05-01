@@ -23,7 +23,7 @@ Apasionado por la automatización, el despliegue continuo y los entornos distrib
 
 ### 🔷 FileDepot – Sistema distribuido de gestión de archivos
 
-📚 *Proyecto académico colaborativo*  
+📚 *Proyecto académico de sistemas distribuidos*  
 🔗 [Repositorio general](https://github.com/FileDepot-Distribuidos/)  
 
 **Tecnologías principales:**  
