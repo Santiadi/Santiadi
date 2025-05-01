@@ -1,9 +1,18 @@
-<h1 align="center">Hola 👋, soy Didier Carvajal</h1>
+<h1 align="center">Hi, I'm Didier Carvajal</h1>
 
 <p align="center">
-Ingeniero en Sistemas e Informática | 💻 Desarrollador Backend & DevOps  
-Apasionado por la automatización, el despliegue continuo y los entornos distribuidos escalables.
+Systems and Informatics Engineer | Backend Developer & DevOps  
+Passionate about automation, continuous delivery, and scalable distributed systems.
 </p>
+
+---
+
+## 🧠 About Me
+
+🚀 My interests revolve around backend development, cloud computing, automation, and infrastructure as code.  
+🤝 I enjoy working in teams, contributing to collaborative projects, and learning from others.  
+☁️ I’m passionate about designing efficient, scalable, and secure cloud-based solutions.  
+📈 I’m always looking for ways to improve processes and build robust systems.
 
 ---
 
@@ -19,22 +28,22 @@ Apasionado por la automatización, el despliegue continuo y los entornos distrib
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Featured Projects
 
-### 🔷 FileDepot – Sistema distribuido de gestión de archivos
+### 🔷 FileDepot – Distributed File Management System
 
-📚 *Proyecto académico de sistemas distribuidos*  
-🔗 [Repositorio general](https://github.com/FileDepot-Distribuidos/)  
+📚 *Academic project on distributed systems*  
+🔗 [Main Repository](https://github.com/FileDepot-Distribuidos/)  
 
-**Tecnologías principales:**  
+**Main technologies:**  
 `Java · Go · Node.js · MariaDB · gRPC · SOAP · RMI · Vue`
 
-**Funciones clave:**  
-- Autenticación con RMI  
-- Servicio de aplicación con SOAP  
-- Sincronización y almacenamiento distribuido en nodos via gRPC  
-- Subida, lectura, movimiento y borrado de archivos  
-- Generación de reporte de espacio 
+**Key features:**  
+- Authentication via RMI  
+- Application service through SOAP  
+- Synchronization and distributed storage across nodes via gRPC  
+- Uploading, reading, moving, and deleting files  
+- Tree-based space usage reporting
 
 ---
 
@@ -45,10 +54,9 @@ Apasionado por la automatización, el despliegue continuo y los entornos distrib
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiadi&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
-## 🌐 Contacto
+---
+
+## 🌐 Contact
 
 - [📬 LinkedIn](https://www.linkedin.com/in/didier-santiago-carvajal-mogollon-5b7734164/)
 - 📩 disacamo43@gmail.com
-
----
-
