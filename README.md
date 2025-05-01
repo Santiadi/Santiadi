@@ -33,7 +33,7 @@ Passionate about automation, continuous delivery, and scalable distributed syste
 ### 🔷 FileDepot – Distributed File Management System
 
 📚 *Academic project on distributed systems*  
-🔗 [Main Repository](https://github.com/FileDepot-Distribuidos/)  
+🔗 [Main Repository](https://github.com/FileDepot-Distribuidos/repositories)  
 
 **Main technologies:**  
 `Java · Go · Node.js · MariaDB · gRPC · SOAP · RMI · Vue`
