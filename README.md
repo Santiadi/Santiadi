@@ -1,5 +1,6 @@
 # Hola, soy Didier Carvajal
 
+Ingeniero en sistemas e informática
 Desarrollador backend y DevOps. 
 
 ---
