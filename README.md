@@ -1,6 +1,6 @@
 # Hola, soy Didier Carvajal
 
-Apasionado por el desarrollo backend y DevOps. Me gusta automatizar, optimizar y construir soluciones escalables.
+Desarrollador backend y DevOps. 
 
 ---
 
